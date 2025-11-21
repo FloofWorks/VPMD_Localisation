@@ -1,0 +1,7 @@
+template_text|SA|7|2:en|2:de|2:sp|2:fr|2:jp|2:ru|2:ko
+hello_world_test|SA|7|12:Hello World!|11:Hallo Welt!|2:sp|2:fr|2:jp|2:ru|2:ko
+hello_world_int|I|91283
+hello_world_str|S|22:This is a cool string!
+hello_world_int_array|IA|5|5|2|99|420|69
+hello_boolean|B|2
+hello_b_array|BA|4|1|2|5|0
